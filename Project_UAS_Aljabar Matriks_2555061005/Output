@@ -1,0 +1,14 @@
+Penjumlahan Matriks A + B:
+[[3, 7, 8], [4, 11, 7], [7, 8, 14]]
+
+Pengurangan Matriks A - B:
+[[-1, -3, -2], [4, -1, 5], [7, 8, 4]]
+
+Perkalian Matriks A x B:
+[[2, 17, 22], [8, 50, 55], [14, 83, 88]]
+
+Transpose Matriks A:
+[[1, 4, 7], [2, 5, 8], [3, 6, 9]]
+
+Determinan Matriks D:
+-2
