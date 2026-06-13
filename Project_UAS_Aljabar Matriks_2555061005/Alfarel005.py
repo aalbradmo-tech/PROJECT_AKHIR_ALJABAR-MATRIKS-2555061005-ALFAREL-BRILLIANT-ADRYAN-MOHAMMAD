@@ -43,6 +43,5 @@ def transpose_matriks(A):
 
 def determinan_2x2(A):
     if len(A) != 2 or len(A[0]) != 2:
-        return "Fungsi ini hanya untuk matriks 2x2"
-    
+        return 
     return A[0][0] * A[1][1] - A[0][1] * A[1][0]
