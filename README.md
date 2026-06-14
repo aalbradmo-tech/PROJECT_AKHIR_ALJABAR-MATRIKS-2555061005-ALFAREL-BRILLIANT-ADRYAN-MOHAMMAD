@@ -1,3 +1,3 @@
 ### PROJECT AKHIR UAS ALJABAR MATRIKS
 
-### LINK YOUTUBE :
+### LINK YOUTUBE : https://youtu.be/eNjAUWt6Nhw?si=1oDYUOJNwyHgWwbV
